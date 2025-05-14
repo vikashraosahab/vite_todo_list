@@ -1,5 +1,7 @@
 # READM.ME
 README.md
+package.json
+package-lock.json
 # Logs
 logs
 *.log
