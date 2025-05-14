@@ -11,7 +11,6 @@ In this todo app you can delete, modify and add todo list with ai (chatgpt).
 
 YOU CAN ALSO RUN IT INTO YOUR PC 
 
-GOTO TO THE VITE_TODO_LIST MAIN 
 npm run dev 
 o + enter 
 by this commands you can see your website on the browser.
